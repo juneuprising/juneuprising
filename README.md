@@ -1,4 +1,4 @@
-### Hey thanks for dropping by! 👋
+## Hey thanks for dropping by! 👋
 
 I'm a product designer, currently designing @Shopify. You can find me:
 
