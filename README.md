@@ -10,7 +10,6 @@ I'm currently working on:
 - My first React Native app
 - A few A/R prototypes in AfterEffects
 - Writing about life in design
-
 <!--
 **juneuprising/juneuprising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
