@@ -1,6 +1,6 @@
 ## Hey thanks for dropping by! 👋
 
-I'm a product designer, currently designing at Grammarly. You can find me:
+I'm a product designer, currently designing at Stripe. You can find me:
 
 - ✍️ Crafting words on [Medium](http://medium.com/@juneuprising)
 - ✨ Pushing pixels on [Dribbble](https://dribbble.com/juneuprising)
